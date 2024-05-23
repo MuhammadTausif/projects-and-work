@@ -40,3 +40,22 @@ A simple NetLogo Drawn in NetLogo
 
 ### Paining app in NetLogo
 This app is used to pain in NetLogo
+
+## Programming Languages
+
+### Python
+
+### Java
+
+### C#
+
+### JavaScript
+
+### NetLogo
+
+
+## Tools
+
+### Dolphin (anty)
+
+https://dolphin-anty.com/en/
