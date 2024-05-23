@@ -22,6 +22,7 @@ This is Android App where we can perform test for students.
 
 ### GHS Karounta Angualr app
 This Web version of Android App that is used to access test from web.
+https://muhammadtausif.github.io/ghs-karounta-quiz/add-subject
 
 ### LND Application for Schools
 This is basic LND app for Primary School students
