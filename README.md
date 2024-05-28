@@ -42,6 +42,31 @@ A simple NetLogo Drawn in NetLogo
 ### Paining app in NetLogo
 This app is used to pain in NetLogo
 
+## Practice
+
+### Python
+
+#### Algorithms
+
+##### Searching Algorithms
+
+###### BSF
+
+###### DFS
+
+###### A* Algorithm
+
+##### Sorting Algorithms
+
+##### Graph Algorithms
+
+
+
+
+### NetLogo
+
+### Machine Learning
+
 ## Programming Languages
 
 ### Python
