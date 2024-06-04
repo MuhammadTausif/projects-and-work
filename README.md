@@ -5,7 +5,7 @@ This repo is all about the projects and work.
 
 ### Encryption and Compression Simulator
 
-This is all about encryption and compression simulator
+This is all about encryption and compression simulator. This software is used to encrypte key, and then compress it at one user end. The compressed and ecrypted key is then transvered via any medium to other user, and it is then decompressed, and decrypted.
 
 ### Traffic Simulator in Java
 
