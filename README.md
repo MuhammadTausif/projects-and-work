@@ -9,7 +9,7 @@ This is all about encryption and compression simulator. This software is used to
 
 ### Traffic Simulator in Java
 
-This is about traffic light simulator in Java
+This is about traffic light simulator in Java. Traffic is simulated in a cross section.
 
 ### Language Translator App
 
