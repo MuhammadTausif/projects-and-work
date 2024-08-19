@@ -88,6 +88,28 @@ This app is used to pain in NetLogo
 
 ## Tools
 
+### VS Code (Microsoft Visual Studio Code)
+#### Python
+- Data Visulization
+
+  
+### Eclipse 
+#### Java Standalone Applications
+- Traffic Simulator
+#### Android
+- LND App
+- GHS Karouna App
+- Financial Calculator
+
+### PyCharm
+#### Python
+- Web Scrapping
+- Automation
+
+  
+
+### NetBeans 
+
 ### Dolphin (anty)
 
 https://dolphin-anty.com/en/
