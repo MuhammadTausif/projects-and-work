@@ -1,4 +1,4 @@
-# Projects and work
+# Education, Projects and Work
 This repo is all about the projects and work.
 
 ## Projects
