@@ -42,6 +42,9 @@ A simple NetLogo Drawn in NetLogo
 ### Paining app in NetLogo
 This app is used to pain in NetLogo
 
+### Video Manamgent Application
+Designed with Python, Django, and AWS
+
 ## Machine Learning
 
 ### Eagle Software
